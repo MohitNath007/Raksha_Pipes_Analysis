@@ -41,7 +41,7 @@ The project aims to develop a comprehensive data management and visualization sy
 
     - **Data Integrity:** Measures such as primary key constraints, foreign key constraints, and data types are implemented to maintain data integrity and enforce business rules.
 
-    - **Database Scripts:** SQL scripts located in the **`database_scripts/`** folder are used to create the tables and define their relationships, ensuring consistency across the database.
+    - **Database Scripts:** SQL scripts located in the repository, are used to create the tables and define their relationships, ensuring consistency across the database.
 
 
 ### **6 .Dashboard Creation**
