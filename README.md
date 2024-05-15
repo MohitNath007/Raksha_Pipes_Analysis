@@ -81,7 +81,7 @@ The project aims to develop a comprehensive data management and visualization sy
 
 
 ### **7 .Presentation**
-- https://drive.google.com/file/d/1LANDFxCaPq49s3YvqqGbgiwLoHw4qY04/view?usp=sharing
+- https://drive.google.com/file/d/1ItJcu5Q37iISwOBtnmENTzPFKzOI9CBT/view?usp=sharing
 
   
 ### **8 .Screenshots**
