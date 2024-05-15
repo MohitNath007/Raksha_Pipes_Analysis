@@ -8,13 +8,12 @@
 
 ### **2. Table of Contents**
 - Links to different sections in the README for easy navigation:
-    1. Project Overview
-    2. Data Generation
-    3. Database Design
-    4. Dashboard Creation
-    5. Setup Instructions
-    6. Presentation
-    7. Screenshots
+  - Project Overview
+  - Data Generation
+  - Database Design
+  - Dashboard Creation
+  - Presentation
+  - Screenshots
  
   ### **3. Project Overview**
 
@@ -81,11 +80,11 @@ The project aims to develop a comprehensive data management and visualization sy
     - **Interactive Analysis:** Users can interact with the dashboard to gain deeper insights into Raksha Pipes' operations. They can filter data, drill down into specific details, and perform ad-hoc analysis to make informed business decisions.
 
 
-### **6 .Presentation**
+### **7 .Presentation**
 - https://drive.google.com/file/d/1LANDFxCaPq49s3YvqqGbgiwLoHw4qY04/view?usp=sharing
 
   
-### **7 .Screenshots**
+### **8 .Screenshots**
 
 **1. Generating Data with Python**
    - Using Python, I created a dataset that mimics the operations of Raksha Pipes. This included generating fake data for products, customers, sales, and other relevant information.
