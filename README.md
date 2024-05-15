@@ -1,5 +1,9 @@
 # **Raksha Pipes Assignments**
 
+### **Presentation Video** - https://drive.google.com/file/d/1LANDFxCaPq49s3YvqqGbgiwLoHw4qY04/view?usp=sharing
+
+
+### **Steps** -
 1. Generating Data with Python
    - Using Python, I created a dataset that mimics the operations of Raksha Pipes. This included generating fake data for products, customers, sales, and other relevant information.
   ![Screenshot (2)](https://github.com/MohitNath007/Raksha_Pipes_Analysis/assets/125669112/b2494b01-9497-4492-9043-d0647d52d8e7)
